@@ -24,7 +24,7 @@ $ nvim /hi/iengindev
 ## 💁🏻 BIO
 * 🖥️  See my portfolio at [soon](#)
 * ✉️  You can contact me at [weendibol21300@gmail.com](mailto:weendibol21300@gmail.com)
-* 🚀  I`m currently working on [mui - vue 3](https://github.com/iengindev/mui-vue3)
+* 🚀  I`m currently working on [mui - vue](https://github.com/murrkiss/mui-vue)
 * 🧠  I`m learning a new technologies
 * 🤝  I`m open to collaborating on interesting projects
 * ⚡️  I moonlight as a super hero
